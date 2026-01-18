@@ -76,3 +76,8 @@ As a **Class B Amateur Radio Operator (BI4WMS)**, I bring a unique "RF-first" pe
 * **Location:** Nanjing, China (Central Hub of Electronics Manufacturing)
 
 ---
+## 📺 Video Demos & Channel
+Check out my hardware in action on my YouTube channel:
+▶️ **[Visit BI4WMS YouTube Channel](https://www.youtube.com/@bi4wms862)**
+
+---
