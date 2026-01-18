@@ -36,7 +36,7 @@ As a **Class B Amateur Radio Operator (BI4WMS)**, I bring a unique "RF-first" pe
 
 ## 🏆 Signature Projects
 
-### ⚡ National Grid (SGCC) Inspection Platforms
+### ⚡ State Grid Corporation of China
 * **Role:** Lead Systems Architect
 * **Challenge:** Designing electronics to survive in **500kV+ high-voltage environments**.
 * **Success:** Developed a ruggedized, EMI-shielded robotic brain that integrates LiDAR and PD sensors, now deployed across national-scale power infrastructure.
