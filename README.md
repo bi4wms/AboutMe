@@ -62,7 +62,7 @@ As a **Class B Amateur Radio Operator (BI4WMS)**, I bring a unique "RF-first" pe
 
 ## 🤝 Connect with Me
 * **Expertise:** Industrial Robotics, RF Design, Reverse Engineering, Supply Chain Consulting.
-* **Email:** [xfce@sina.com](mailto:xfce@sina.com)
+* **Email:** [bi4wms@sina.com](mailto:bi4wms@sina.com)
 * **Location:** Nanjing, China (Central Hub of Electronics Manufacturing)
 
 ---
