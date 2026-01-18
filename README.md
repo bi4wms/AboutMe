@@ -10,6 +10,16 @@
 
 ---
 
+## 🖼 Project Showcase
+
+<p align="center">
+  <img src="./media/showcase.gif" width="900px" alt="Hardware Design Showcase">
+  <br>
+  <i>From 3D Mechanical Modeling to High-Density PCBA Deployment</i>
+</p>
+
+---
+
 ## 📖 Executive Summary
 A veteran Systems Architect with over **two decades** of experience in high-complexity electronic systems. I specialize in the **"Mission-Critical"** hardware niche—where high reliability, extreme EMI shielding, and precision motion control are non-negotiable. 
 
@@ -57,16 +67,6 @@ As a **Class B Amateur Radio Operator (BI4WMS)**, I bring a unique "RF-first" pe
 
 ## 📡 Radio & Hardware Aesthetics
 > "I view hardware as a synergy of physics and art. My designs prioritize **EMC by design** rather than by patch. Whether it's a shortwave transceiver or an industrial robot, I ensure professional aesthetics through custom silkscreens, ergonomic 3D-designed enclosures, and clean, logical routing."
-
----
-
-## 🖼 Project Showcase
-
-<p align="center">
-  <img src="./media/showcase.gif" width="900px" alt="Hardware Design Showcase">
-  <br>
-  <i>From 3D Mechanical Modeling to High-Density PCBA Deployment</i>
-</p>
 
 ---
 
