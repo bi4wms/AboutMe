@@ -60,6 +60,16 @@ As a **Class B Amateur Radio Operator (BI4WMS)**, I bring a unique "RF-first" pe
 
 ---
 
+## 🖼 Project Showcase
+
+<p align="center">
+  <img src="./media/showcase.gif" width="900px" alt="Hardware Design Showcase">
+  <br>
+  <i>From 3D Mechanical Modeling to High-Density PCBA Deployment</i>
+</p>
+
+---
+
 ## 🤝 Connect with Me
 * **Expertise:** Industrial Robotics, RF Design, Reverse Engineering, Supply Chain Consulting.
 * **Email:** [bi4wms@sina.com](mailto:bi4wms@sina.com)
