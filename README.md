@@ -81,3 +81,5 @@ Check out my hardware in action on my YouTube channel:
 ▶️ **[Visit BI4WMS YouTube Channel](https://www.youtube.com/@bi4wms862)**
 
 ---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F71UPWU0)
