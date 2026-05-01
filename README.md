@@ -82,4 +82,4 @@ Check out my hardware in action on my YouTube channel:
 
 ---
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/bi4wms)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/bi4wms)
